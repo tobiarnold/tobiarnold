@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tobiarnold
-- 👀 I’m interested in Python and other Programming Languages also everything related to Data Science
+- 👀 I’m interested in Python and other Programming Languages also everything related to Data Science and Analytics
 - 🌱 I’m currently learning Javascript
+-👍 You can reach me on XING: https://www.xing.com/profile/Tobias_Arnold55

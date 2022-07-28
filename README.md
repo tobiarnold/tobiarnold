@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tobiarnold
+- 👀 I’m interested in Python and other Programming Languages also everything related to Data Science
+- 🌱 I’m currently learning Javascript

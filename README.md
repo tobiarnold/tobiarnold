@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiarnold&hide=scss,jupyter%20notebook&html&layout=compact&theme=gruvbox_light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiarnold&hide=jupyter%20notebook,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiarnold&hide=jupyter%20notebook,html&layout=compact&theme=gruvbox_light)

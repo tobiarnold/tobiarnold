@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiarnold)](https://github.com/tobiarnold/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiarnold&hide=scss,jupyter%20notebook&layout=compact&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiarnold&hide=scss,jupyter%20notebook&html&layout=compact&theme=gruvbox_light)
